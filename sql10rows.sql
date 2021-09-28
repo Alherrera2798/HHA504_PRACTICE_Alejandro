@@ -34,3 +34,4 @@ INSERT INTO `patient_details` (`user_id`, `username`, `first_name`, `last_name`,
 
 --- Changed the repository above no more paul85 ---
 
+--- Update 2 ---
